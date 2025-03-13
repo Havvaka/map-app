@@ -1,0 +1,2 @@
+C:/Users/Havva/Desktop/map_app/map_app/android/app/.cxx/RelWithDebInfo/1h661a1f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Havva/Desktop/map_app/map_app/android/app/.cxx/RelWithDebInfo/1h661a1f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
